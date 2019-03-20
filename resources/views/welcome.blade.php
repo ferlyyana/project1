@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    WELCOME TO LARAVEL FERLY
                 </div>
 
                 <div class="links">
